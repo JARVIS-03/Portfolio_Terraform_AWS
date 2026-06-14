@@ -1,0 +1,1 @@
+bucket_name = "kalaiyarasan-portfolio-prod-181611282185"
